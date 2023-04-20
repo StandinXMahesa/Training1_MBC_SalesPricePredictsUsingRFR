@@ -1,0 +1,4 @@
+# Path
+data_train: Data\train.csv
+data_test: Data\test.csv
+sample_example: Data\sample_submission.csv
