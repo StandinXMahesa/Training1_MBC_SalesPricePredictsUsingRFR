@@ -1,0 +1,3 @@
+# path
+main_data: Data\water_potability.csv
+sales_data: Data\Sales.csv
